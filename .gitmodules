@@ -1,0 +1,4 @@
+[submodule "alpha-chain-node-service"]
+	path = services/alpha-chain-node-service
+	url = https://github.com/red-cup-engineering/alpha-chain-node-service.git
+	branch = main
