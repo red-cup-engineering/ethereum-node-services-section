@@ -1,9 +1,9 @@
 {
-  "name": "@red-cup-engineering/ethereum-node-services-section",
+  "name": "@red-cup-engineering/ethereum-node-engineering-services-section",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/ethereum-node-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/ethereum-node-engineering-services-section.git"
   },
   "private": true,
   "description": "Ethereum execution-node arena; each contained service forms one independently operated node actor.",
